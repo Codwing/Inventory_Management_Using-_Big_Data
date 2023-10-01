@@ -53,10 +53,10 @@ For each model, the following evaluation metrics were calculated:
 5. Make predictions on new data using the trained model.
 
 ## Files
-preprocessed_train.csv: Preprocessed training data.
-preprocessed_test.csv: Preprocessed testing data.
+preprocessed_train.csv: Preprocessed training data. \n
+preprocessed_test.csv: Preprocessed testing data. \n
 Jupyter Notebook or Python script for data preprocessing and model training.
 
 ## Dependencies
-Python 3.x
+Python 3.x \n
 Libraries: pandas, numpy, matplotlib, seaborn, nltk, textblob, bs4 (BeautifulSoup), scikit-learn, text preprocessing, and data visualization.
