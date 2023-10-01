@@ -42,4 +42,21 @@ For each model, the following evaluation metrics were calculated:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Amazon-ML-Challenge.git
+   git clone https://github.com/Codwing/Inventory_Management_Using-_Big_Data.git
+
+2. Install the required libraries mentioned in the environment setup.
+
+3. Run the Jupyter Notebook or Python script for data preprocessing and model training.
+
+4. Examine the model performance using the provided evaluation metrics.
+
+5. Make predictions on new data using the trained model.
+
+## Files
+preprocessed_train.csv: Preprocessed training data.
+preprocessed_test.csv: Preprocessed testing data.
+Jupyter Notebook or Python script for data preprocessing and model training.
+
+## Dependencies
+Python 3.x
+Libraries: pandas, numpy, matplotlib, seaborn, nltk, textblob, bs4 (BeautifulSoup), scikit-learn, text preprocessing, and data visualization.
